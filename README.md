@@ -22,7 +22,9 @@ O painel foi dividido em três páginas estruturadas para facilitar a leitura ex
 ---
 
 ## 📸 Pré-visualização do Dashboard
-*(Dica: Aqui pode adicionar capturas de ecrã/prints das páginas principais do seu relatório para que quem acesse o repositório veja o seu trabalho visualmente de imediato!)*
+<img width="1297" height="810" alt="Visão Geral" src="https://github.com/user-attachments/assets/1b665049-dc34-492d-9f83-1845afdd496f" />
+<img width="1297" height="797" alt="Desempenho Temporal" src="https://github.com/user-attachments/assets/e080af9f-ee1e-4a22-abe6-c929e406e126" />
+<img width="1418" height="800" alt="Geografia e Segmentos" src="https://github.com/user-attachments/assets/cfe10aee-086b-4009-8026-ed4a5a964b9e" />
 
 ---
 
